@@ -1,3 +1,6 @@
+![IMG20191224151733](https://github.com/EpicInsaan/PAM8610_Amplifier/assets/87660943/b21f7f42-6eaa-4e00-bb7f-479cd622b00a)
+![IMG20191224151715](https://github.com/EpicInsaan/PAM8610_Amplifier/assets/87660943/567b9393-88cc-489c-b970-f1ea9d4a32b6)
+
 
 PAM8610 Amplifier Module - DIY Audio Project
 
